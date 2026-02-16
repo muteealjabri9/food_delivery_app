@@ -27,11 +27,10 @@ The app uses a consistent **orange (#FF6B00) and white** palette, **neumorphism-
 
 | Home screen |
 |-------------|
-| ![Home screen](screenshots/home screen.png) |
+| ![Home screen](screenshots/home.png) |
 
 
 
-*Place your screenshots in the `screenshot/` folder (e.g. `home.png`, `food_list.png`) to have them appear above.*
 
 ---
 
